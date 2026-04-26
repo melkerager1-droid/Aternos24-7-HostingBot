@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MelkerAgerSMP-05tp.aternos.me"
+    "ip": "MelkerAgerSMP-05tp.aternos.me",
     "port":38945,
     "version": "1.21.11",
     "try-creative": false
